@@ -1,0 +1,1867 @@
+[{
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Claudia",
+            "subject": "Fundamentos de Biologia Moderna IA+IB"
+        }, {
+            "professor": "Elisa",
+            "subject": "Fundamentos de Biologia Moderna IC+ID"
+        }],
+        "ter": [{
+            "professor": "Macedo / Robson",
+            "subject": "Cálculo em Uma Variável IA"
+        }, {
+            "professor": "Aline / Grasiele",
+            "subject": "Cálculo em Uma Variável IB"
+        }],
+        "seg": [],
+        "sex": [{
+            "professor": "Aline / Grasiele",
+            "subject": "Cálculo em Uma Variável IB"
+        }, {
+            "professor": "Jurandy",
+            "subject": "Lógica de Programação IC"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "8h00-10h00",
+    "term": ["1"],
+    "cell": "A3"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Jurandy",
+            "subject": "Lógica de Programação IC"
+        }, {
+            "professor": "Mariah",
+            "subject": "Lógica de Programação ID"
+        }],
+        "qui": [{
+            "professor": "Macedo / Robson",
+            "subject": "Cálculo em Uma Variável IA"
+        }, {
+            "professor": "Aline / Grasiele",
+            "subject": "Cálculo em Uma Variável IB"
+        }],
+        "ter": [{
+            "professor": "Luciana",
+            "subject": "CTS IC"
+        }, {
+            "professor": "Pereira",
+            "subject": "CTS D"
+        }],
+        "seg": [{
+            "professor": "Claudia",
+            "subject": "Fundamentos de Biologia Moderna IA+IB"
+        }, {
+            "professor": "Elisa",
+            "subject": "Fundamentos de Biologia Moderna IC+ID"
+        }],
+        "sex": [{
+            "professor": "Macedo / Robson",
+            "subject": "Cálculo em Uma Variável IA"
+        }, {
+            "professor": "Mariah",
+            "subject": "Lógica de Programação ID"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "10h00-12h00",
+    "term": ["1"],
+    "cell": "A5"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Otavio",
+            "subject": "Lógica de Programação IA"
+        }, {
+            "professor": "Regina",
+            "subject": "Lógica de Programação IB"
+        }],
+        "qui": [{
+            "professor": "Macedo / Robson",
+            "subject": "Cálculo em Uma Variável ID"
+        }],
+        "ter": [],
+        "seg": [{
+            "professor": "Raquel",
+            "subject": "Química Geral IA"
+        }, {
+            "professor": "Marli",
+            "subject": "Química Geral IB"
+        }, {
+            "professor": "Elias",
+            "subject": "Química Geral IC"
+        }, {
+            "professor": "Maraisa",
+            "subject": "Química Geral ID"
+        }],
+        "sex": [{
+            "professor": "Elizangela / Grasiele",
+            "subject": "Cálculo em Uma Variável IC"
+        }, {
+            "professor": "Regina",
+            "subject": "Lógica de Programação IB"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "13h30-15h30",
+    "term": ["1"],
+    "cell": "A7"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Raquel",
+            "subject": "Química Geral IA"
+        }, {
+            "professor": "Marli",
+            "subject": "Química Geral IB"
+        }, {
+            "professor": "Elias",
+            "subject": "Química Geral IC"
+        }, {
+            "professor": "Maraisa",
+            "subject": "Química Geral ID"
+        }],
+        "qui": [{
+            "professor": "Elizangela / Grasiele",
+            "subject": "Cálculo em Uma Variável IC"
+        }],
+        "ter": [{
+            "professor": "Elizangela / Grasiele",
+            "subject": "Cálculo em Uma Variável IC"
+        }, {
+            "professor": "Macedo / Robson",
+            "subject": "Cálculo em Uma Variável ID"
+        }, {
+            "professor": "Luciana",
+            "subject": "CTS IA"
+        }, {
+            "professor": "Pereira",
+            "subject": "CTS IB"
+        }],
+        "seg": [],
+        "sex": [{
+            "professor": "Macedo / Robson",
+            "subject": "Cálculo em Uma Variável ID"
+        }, {
+            "professor": "Otavio",
+            "subject": "Lógica de Programação IA"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "15h30-17h30",
+    "term": ["1"],
+    "cell": "A9"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Otavio",
+            "subject": "Lógica de Programação NA"
+        }, {
+            "professor": "Valerio",
+            "subject": "Lógica de Programação NB"
+        }],
+        "qui": [{
+            "professor": "André",
+            "subject": "Fundamentos de Biologia Moderna NA+NB"
+        }],
+        "ter": [{
+            "professor": "Elizangela",
+            "subject": "Cálculo em Uma Variável NB"
+        }, {
+            "professor": "Zuleika",
+            "subject": "CTS NA"
+        }],
+        "seg": [{
+            "professor": "Silvia",
+            "subject": "Química Geral NA"
+        }, {
+            "professor": "Maraisa",
+            "subject": "Química Geral NB"
+        }],
+        "sex": [{
+            "professor": "Castilho / Elizangela",
+            "subject": "Cálculo em Uma Variável NA"
+        }, {
+            "professor": "Valerio",
+            "subject": "Lógica de Programação NB"
+        }]
+    },
+    "course": "BCT-N",
+    "time": "19h00-21h00",
+    "term": ["1"],
+    "cell": "A12"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Silvia",
+            "subject": "Química Geral NA"
+        }, {
+            "professor": "Maraisa",
+            "subject": "Química Geral NB"
+        }],
+        "qui": [{
+            "professor": "Castilho / Elizangela",
+            "subject": "Cálculo em Uma Variável NA"
+        }, {
+            "professor": "Elizangela",
+            "subject": "Cálculo em Uma Variável NB"
+        }],
+        "ter": [{
+            "professor": "Castilho / Elizangela",
+            "subject": "Cálculo em Uma Variável NA"
+        }, {
+            "professor": "Zuleika",
+            "subject": "CTS NB"
+        }],
+        "seg": [{
+            "professor": "André",
+            "subject": "Fundamentos de Biologia Moderna NA+NB"
+        }],
+        "sex": [{
+            "professor": "Elizangela",
+            "subject": "Cálculo em Uma Variável NB"
+        }, {
+            "professor": "Otavio",
+            "subject": "Lógica de Programação NA"
+        }]
+    },
+    "course": "BCT-N",
+    "time": "21h00-23h00",
+    "term": ["1"],
+    "cell": "A14"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Thaciana",
+            "subject": "Fenômenos Mecânicos Experimental IC"
+        }, {
+            "professor": "Thadeu",
+            "subject": "Cálculo em Várias Variáveis IA"
+        }],
+        "ter": [{
+            "professor": "Thaciana",
+            "subject": "Fenômenos Mecânicos Experimental IA"
+        }, {
+            "professor": "Elisa",
+            "subject": "Microbiologia Aplicada e Industrial"
+        }, {
+            "professor": "Erwin",
+            "subject": "Álgebra Linear IA"
+        }],
+        "seg": [{
+            "professor": "Raquel",
+            "subject": "Quimica Inorgânica IA"
+        }, {
+            "professor": "Marli",
+            "subject": "Quimica Inorgânica IB"
+        }, {
+            "professor": "Elisa",
+            "subject": "Microbiologia Aplicada e Industrial"
+        }, {
+            "professor": "Rossano",
+            "subject": "Fenômenos do Contínuo IA"
+        }],
+        "sex": [{
+            "professor": "Juliana",
+            "subject": "Probabilidade e Estatística IA"
+        }, {
+            "professor": "Goroso",
+            "subject": "Física Geral"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "8h00-10h00",
+    "term": ["3"],
+    "cell": "A17"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Goroso",
+            "subject": "Física Geral"
+        }, {
+            "professor": "Raquel",
+            "subject": "Quimica Inorgânica IA"
+        }, {
+            "professor": "Marli",
+            "subject": "Quimica Inorgânica IB"
+        }, {
+            "professor": "Rossano",
+            "subject": "Fenômenos do Contínuo IA"
+        }],
+        "qui": [{
+            "professor": "Thaciana",
+            "subject": "Fenômenos Mecânicos Experimental ID"
+        }, {
+            "professor": "Erwin",
+            "subject": "Álgebra Linear IA"
+        }],
+        "ter": [{
+            "professor": "Thaciana",
+            "subject": "Fenômenos Mecânicos Experimental IB"
+        }, {
+            "professor": "Claudia",
+            "subject": "Biologia Molecular da Célula"
+        }, {
+            "professor": "Juliana",
+            "subject": "Probabilidade e Estatística IA"
+        }],
+        "seg": [{
+            "professor": "Thadeu",
+            "subject": "Cálculo em Várias Variáveis IA"
+        }],
+        "sex": []
+    },
+    "course": "BCT-I",
+    "time": "10h00-12h00",
+    "term": ["3"],
+    "cell": "A19"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Luciana",
+            "subject": "Tecnologia Social, praxis e contrahegemonia"
+        }, {
+            "professor": "Tatiana",
+            "subject": "Fisiologia Humana I"
+        }, {
+            "professor": "Vinicius",
+            "subject": "Algoritmos e Estruturas de Dados II I"
+        }],
+        "qui": [{
+            "professor": "Patrícia",
+            "subject": "Cálculo em Várias Variáveis IB"
+        }, {
+            "professor": "Angelo",
+            "subject": "Cálculo em Várias Variáveis IC"
+        }, {
+            "professor": "Martini",
+            "subject": "Bioestatística I"
+        }],
+        "ter": [{
+            "professor": "Castilho",
+            "subject": "Álgebra Linear IB"
+        }, {
+            "professor": "Fernando",
+            "subject": "Química Orgânica I"
+        }, {
+            "professor": "Luciana",
+            "subject": "CTSA I (Reoferecimento)"
+        }, {
+            "professor": "Pereira",
+            "subject": "Cultura de Jogos Digitais"
+        }],
+        "seg": [{
+            "professor": "Dezena",
+            "subject": "Tecnologia e Meio Ambiente U"
+        }, {
+            "professor": "Claudia",
+            "subject": "Biologia Molecular da Célula"
+        }, {
+            "professor": "Rossano",
+            "subject": "Fenômenos do Contínuo IB"
+        }, {
+            "professor": "Eudes",
+            "subject": "Fenômenos do Contínuo IC"
+        }, {
+            "professor": "Denise",
+            "subject": "Circuitos Digitais IA"
+        }, {
+            "professor": "Cappabianco",
+            "subject": "Circuitos Digitais IB"
+        }],
+        "sex": [{
+            "professor": "Juliana",
+            "subject": "Probabilidade e Estatística IB"
+        }, {
+            "professor": "Martin",
+            "subject": "Laboratório Bioquímica"
+        }, {
+            "professor": "Shida",
+            "subject": "Algoritmos em Bioinformática "
+        }]
+    },
+    "course": "BCT-I",
+    "time": "13h30-15h30",
+    "term": ["3"],
+    "cell": "A21"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Denise",
+            "subject": "Circuitos Digitais IA"
+        }, {
+            "professor": "Cappabianco",
+            "subject": "Circuitos Digitais IB"
+        }, {
+            "professor": "Eudes",
+            "subject": "Fenômenos do Contínuo IC"
+        }, {
+            "professor": "Rossano",
+            "subject": "Fenômenos do Contínuo IB"
+        }],
+        "qui": [{
+            "professor": "Castilho",
+            "subject": "Álgebra Linear IB"
+        }, {
+            "professor": "Fernando",
+            "subject": "Química Orgânica I"
+        }, {
+            "professor": "Zuleika",
+            "subject": "Direitos Humanos, Multiculturalismo e C&T I"
+        }],
+        "ter": [{
+            "professor": "Martini",
+            "subject": "Bioestatística I"
+        }, {
+            "professor": "Juliana",
+            "subject": "Probabilidade e Estatística IB"
+        }, {
+            "professor": "Shida",
+            "subject": "Algoritmos em Bioinformática "
+        }],
+        "seg": [{
+            "professor": "Patrícia",
+            "subject": "Cálculo em Várias Variáveis IB"
+        }, {
+            "professor": "Angelo",
+            "subject": "Cálculo em Várias Variáveis IC"
+        }, {
+            "professor": "Tatiana",
+            "subject": "Fisiologia Humana I"
+        }],
+        "sex": [{
+            "professor": "Vinicius",
+            "subject": "Algoritmos e Estruturas de Dados II I"
+        }, {
+            "professor": "Martin",
+            "subject": "Laboratório Bioquímica"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "15h30-17h30",
+    "term": ["3"],
+    "cell": "A23"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Vinicius",
+            "subject": "Algoritmos e Estruturas de Dados II N"
+        }, {
+            "professor": "Pereira",
+            "subject": "Cultura de Jogos Digitais"
+        }, {
+            "professor": null,
+            "subject": "Fisiologia Humana N"
+        }],
+        "qui": [{
+            "professor": "Angelo",
+            "subject": "Cálculo em Várias Variáveis N"
+        }, {
+            "professor": "Patrícia",
+            "subject": "Introdução à Geometria Diferencial N"
+        }],
+        "ter": [{
+            "professor": "Martini",
+            "subject": "Probabilidade e Estatística N"
+        }, {
+            "professor": "Flávio",
+            "subject": "Fisiologia Humana N"
+        }, {
+            "professor": "Fernando",
+            "subject": "Química Orgânica N"
+        }],
+        "seg": [{
+            "professor": "Elias",
+            "subject": "Química Inorgânica N"
+        }, {
+            "professor": "Manuel",
+            "subject": "Fenômenos do Contínuo N"
+        }, {
+            "professor": "Renato",
+            "subject": "Elementos de Álgebra N"
+        }, {
+            "professor": "Denise",
+            "subject": "Circuitos Digitais N"
+        }],
+        "sex": [{
+            "professor": "Leandro",
+            "subject": "Álgebra Linear N"
+        }, {
+            "professor": "Goroso",
+            "subject": "Fenômenos Mecânicos Experimental NA"
+        }]
+    },
+    "course": "BCT-N",
+    "time": "19h00-21h00",
+    "term": ["3"],
+    "cell": "A26"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Elias",
+            "subject": "Química Inorgânica N"
+        }, {
+            "professor": "Renato",
+            "subject": "Elementos de Álgebra N"
+        }, {
+            "professor": "Denise",
+            "subject": "Circuitos Digitais N"
+        }, {
+            "professor": "Manuel",
+            "subject": "Fenômenos do Contínuo N"
+        }],
+        "qui": [{
+            "professor": "Dezena",
+            "subject": "Tecnologia e Meio Ambiente N"
+        }, {
+            "professor": "Fernando",
+            "subject": "Química Orgânica I"
+        }, {
+            "professor": "Martini",
+            "subject": "Probabilidade e Estatística N"
+        }],
+        "ter": [{
+            "professor": "Leandro",
+            "subject": "Álgebra Linear N"
+        }],
+        "seg": [{
+            "professor": "Angelo",
+            "subject": "Cálculo em Várias Variáveis N"
+        }, {
+            "professor": "Patrícia",
+            "subject": "Introdução à Geometria Diferencial N"
+        }],
+        "sex": [{
+            "professor": "Vinicius",
+            "subject": "Algoritmos e Estruturas de Dados II N"
+        }, {
+            "professor": "Goroso",
+            "subject": "Fenômenos Mecânicos Experimental NB"
+        }]
+    },
+    "course": "BCT-N",
+    "time": "21h00-23h00",
+    "term": ["3"],
+    "cell": "A28"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Espírito",
+            "subject": "Fenômenos Eletromagnéticos Experimental IA"
+        }, {
+            "professor": "Manuel",
+            "subject": "Física Moderna"
+        }, {
+            "professor": "Katia",
+            "subject": "Resistência dos Materiais U"
+        }],
+        "qui": [{
+            "professor": "Danieli",
+            "subject": "Materiais Metálicos IB"
+        }, {
+            "professor": "Beth",
+            "subject": "Engenharia Bioquímica I"
+        }],
+        "ter": [{
+            "professor": "Gurjão",
+            "subject": "Lab de Circuitos Elétricos IB"
+        }, {
+            "professor": "Beth",
+            "subject": "Engenharia Bioquímica I"
+        }, {
+            "professor": "Danieli",
+            "subject": "Materiais Metálicos IA"
+        }],
+        "seg": [{
+            "professor": "Antonelli",
+            "subject": "Fenômenos Eletromagnéticos Experimental IC"
+        }],
+        "sex": []
+    },
+    "course": "BCT-I",
+    "time": "8h00-10h00",
+    "term": ["5"],
+    "cell": "A31"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Espírito",
+            "subject": "Fenômenos Eletromagnéticos Experimental IB"
+        }, {
+            "professor": "Lilia",
+            "subject": "Reciclagem de Materiais U"
+        }],
+        "qui": [{
+            "professor": "Adenauer",
+            "subject": "Análise de Sinais "
+        }, {
+            "professor": "Danieli",
+            "subject": "Materiais Metálicos IA"
+        }, {
+            "professor": "Moraes",
+            "subject": "Introdução à Ecologia"
+        }],
+        "ter": [{
+            "professor": "Gurjão",
+            "subject": "Lab de Circuitos Elétricos IC"
+        }, {
+            "professor": "Adenauer",
+            "subject": "Análise de Sinais "
+        }, {
+            "professor": "Moraes",
+            "subject": "Introdução à Ecologia"
+        }, {
+            "professor": "Danieli",
+            "subject": "Materiais Metálicos IB"
+        }],
+        "seg": [{
+            "professor": "Antonelli",
+            "subject": "Fenômenos Eletromagnéticos Experimental ID"
+        }, {
+            "professor": "Tatiana",
+            "subject": "Fisiopatologia Cardiorrespiratoria"
+        }, {
+            "professor": "Manuel",
+            "subject": "Física Moderna"
+        }],
+        "sex": [{
+            "professor": "Marina",
+            "subject": "Fenômenos de Transporte U"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "10h00-12h00",
+    "term": ["5"],
+    "cell": "A33"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Iraci",
+            "subject": "Empreendorismo para Biotecnologia I"
+        }, {
+            "professor": "Tiago",
+            "subject": "Lab. de Arquitetura de Computadores I"
+        }],
+        "qui": [{
+            "professor": "Henrique",
+            "subject": "Lab de Circuitos Elétricos IA"
+        }, {
+            "professor": "Conceição",
+            "subject": "Bioquímica Analítica"
+        }, {
+            "professor": "Ana",
+            "subject": "Materiais Poliméricos IA"
+        }, {
+            "professor": "Eliandra",
+            "subject": "Materiais Cerâmicos IA"
+        }],
+        "ter": [{
+            "professor": "Henrique",
+            "subject": "Circuitos Elétricos II I"
+        }, {
+            "professor": "Aline",
+            "subject": "Análise Real 1"
+        }, {
+            "professor": "Conceição",
+            "subject": "Bioquímica Analítica"
+        }, {
+            "professor": "Ana",
+            "subject": "Materiais Poliméricos IA"
+        }, {
+            "professor": "Eliandra",
+            "subject": "Materiais Cerâmicos IA"
+        }],
+        "seg": [{
+            "professor": "Katia",
+            "subject": "Resistência dos Materiais U"
+        }, {
+            "professor": "Renato",
+            "subject": "Teoria dos Números I"
+        }, {
+            "professor": "Sato",
+            "subject": "Microeconomia IA"
+        }],
+        "sex": [{
+            "professor": "Sato",
+            "subject": "Microeconomia IC"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "13h30-15h30",
+    "term": ["5"],
+    "cell": "A35"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Iraci",
+            "subject": "Qualidade I"
+        }, {
+            "professor": "Marina",
+            "subject": "Fenômenos de Transporte U"
+        }, {
+            "professor": "Tatiana",
+            "subject": "Bioética e Biossegurança"
+        }, {
+            "professor": "Tiago",
+            "subject": "Lab. de Arquitetura de Computadores I"
+        }, {
+            "professor": "Renato",
+            "subject": "Teoria dos Números I"
+        }],
+        "qui": [{
+            "professor": "Aline",
+            "subject": "Análise Real 1"
+        }, {
+            "professor": "Henrique",
+            "subject": "Circuitos Elétricos II I"
+        }, {
+            "professor": "André",
+            "subject": "Introdução à Bioinformática"
+        }, {
+            "professor": "Ana",
+            "subject": "Materiais Poliméricos IB"
+        }, {
+            "professor": "Eliandra",
+            "subject": "Materiais Cerâmicos IB"
+        }],
+        "ter": [{
+            "professor": "Ana",
+            "subject": "Materiais Poliméricos IB"
+        }, {
+            "professor": "Eliandra",
+            "subject": "Materiais Cerâmicos IB"
+        }],
+        "seg": [{
+            "professor": "André",
+            "subject": "Introdução à Bioinformática"
+        }, {
+            "professor": "Sato",
+            "subject": "Microeconomia IB"
+        }],
+        "sex": [{
+            "professor": "Shida",
+            "subject": "Desenho Tecnico Assistido por Computador I"
+        }]
+    },
+    "course": "BCT-I",
+    "time": "15h30-17h30",
+    "term": ["5"],
+    "cell": "A37"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Iraci",
+            "subject": "Empreendorismo para BiotecnologiaN"
+        }, {
+            "professor": "Tiago",
+            "subject": "Lab. de Arquitetura de Computadores N"
+        }],
+        "qui": [{
+            "professor": "Edson",
+            "subject": "Circuitos Elétricos II N"
+        }],
+        "ter": [{
+            "professor": "Henrique",
+            "subject": "Lab de Circuitos Elétricos N"
+        }],
+        "seg": [{
+            "professor": "Antonelli",
+            "subject": "Fenômenos Eletromagnéticos Exp NA"
+        }],
+        "sex": [{
+            "professor": "Sato",
+            "subject": "Microeconomia N"
+        }]
+    },
+    "course": "BCT-N",
+    "time": "19h00-21h00",
+    "term": ["5"],
+    "cell": "A40"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Iraci",
+            "subject": "Qualidade N"
+        }, {
+            "professor": "Tiago",
+            "subject": "Lab. de Arquitetura de Computadores N"
+        }],
+        "qui": [{
+            "professor": "Zuleika",
+            "subject": "Relacoes etnicoraciais e cultura afrobrasileira e indigena N"
+        }],
+        "ter": [{
+            "professor": "Edson",
+            "subject": "Circuitos Elétricos II N"
+        }],
+        "seg": [{
+            "professor": "Antonelli",
+            "subject": "Fenômenos Eletromagnéticos Exp NB"
+        }],
+        "sex": [{
+            "professor": "Shida",
+            "subject": "Desenho Tecnico Assistido por Computador N"
+        }]
+    },
+    "course": "BCT-N",
+    "time": "21h00-23h00",
+    "term": ["5"],
+    "cell": "A42"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "BCC-I",
+    "time": "8h00-10h00",
+    "term": ["5"],
+    "cell": "A45"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "BCC-I",
+    "time": "10h00-12h00",
+    "term": ["5"],
+    "cell": "A47"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Reginaldo",
+            "subject": "Teoria dos Grafos"
+        }],
+        "ter": [{
+            "professor": "Ezequiel",
+            "subject": "Sistemas Operacionais"
+        }],
+        "seg": [{
+            "professor": "Faria",
+            "subject": "Inteligência Artificial"
+        }],
+        "sex": []
+    },
+    "course": "BCC-I",
+    "time": "13h30-15h30",
+    "term": ["5"],
+    "cell": "A49"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Faria",
+            "subject": "Inteligência Artificial"
+        }],
+        "qui": [{
+            "professor": "Ezequiel",
+            "subject": "Sistemas Operacionais"
+        }],
+        "ter": [{
+            "professor": "Reginaldo",
+            "subject": "Teoria dos Grafos"
+        }],
+        "seg": [{
+            "professor": "Mancini",
+            "subject": "Linguagens Formais e Autômatos"
+        }],
+        "sex": [{
+            "professor": "Mancini",
+            "subject": "Linguagens Formais e Autômatos"
+        }]
+    },
+    "course": "BCC-I",
+    "time": "15h30-17h30",
+    "term": ["5"],
+    "cell": "A51"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Fabio",
+            "subject": "Projeto Orientado e Objeto"
+        }],
+        "qui": [],
+        "ter": [],
+        "seg": [{
+            "professor": "Fabio",
+            "subject": "Projeto Orientado e Objeto"
+        }],
+        "sex": []
+    },
+    "course": "BCC-I",
+    "time": "19h00-21h00",
+    "term": ["5"],
+    "cell": "A53"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "BCC-I - BCC-N",
+    "time": "8h00-10h00",
+    "term": ["7", "Reofs"],
+    "cell": "A56"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "BCC-I - BCC-N",
+    "time": "10h00-12h00",
+    "term": ["7", "Reofs"],
+    "cell": "A58"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Valerio",
+            "subject": "Segurança Computacional"
+        }],
+        "qui": [{
+            "professor": "Daniela",
+            "subject": "Aspectos de Implementacao de Banco de Dados"
+        }],
+        "ter": [],
+        "seg": [{
+            "professor": "Marcio",
+            "subject": "Tópicos em Fundamentos da Computação"
+        }],
+        "sex": []
+    },
+    "course": "BCC-I - BCC-N",
+    "time": "13h30-15h30",
+    "term": ["7", "Reofs"],
+    "cell": "A60"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Marcio",
+            "subject": "Tópicos em Fundamentos da Computação"
+        }],
+        "qui": [],
+        "ter": [{
+            "professor": "Daniela",
+            "subject": "Aspectos de Implementacao de Banco de Dados"
+        }],
+        "seg": [],
+        "sex": [{
+            "professor": "Valerio",
+            "subject": "Segurança Computacional"
+        }]
+    },
+    "course": "BCC-I - BCC-N",
+    "time": "15h30-17h30",
+    "term": ["7", "Reofs"],
+    "cell": "A62"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "ERRO#Denise",
+            "subject": "Circuitos Digitais"
+        }, {
+            "professor": "Faria",
+            "subject": "Inteligência Artificial"
+        }, {
+            "professor": "Mancini",
+            "subject": "Projetos em Engenharia de Computação N"
+        }],
+        "qui": [{
+            "professor": "Alvaro",
+            "subject": "Algoritmos e Estruturas de Dados I (reof)"
+        }, {
+            "professor": "Daniela",
+            "subject": "Lógica de Programação (turma extra apenas veteranos) NC"
+        }, {
+            "professor": "Reginaldo",
+            "subject": "Projeto e Análise de Algoritmos"
+        }, {
+            "professor": "Galvão",
+            "subject": "Sistemas Embarcados"
+        }],
+        "ter": [{
+            "professor": "Ezequiel",
+            "subject": "Sistemas Operacionais"
+        }, {
+            "professor": "Bruno",
+            "subject": "Sistemas Distribuídos"
+        }],
+        "seg": [{
+            "professor": "Silva",
+            "subject": "Interacao HumanoComputador"
+        }, {
+            "professor": "ERRO#Denise",
+            "subject": "Circuitos Digitais"
+        }],
+        "sex": [{
+            "professor": "Regina",
+            "subject": "Computação Gráfica"
+        }]
+    },
+    "course": "BCC-I - BCC-N",
+    "time": "19h00-21h00",
+    "term": ["7", "Reofs"],
+    "cell": "A64"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Silva",
+            "subject": "Interacao HumanoComputador"
+        }],
+        "qui": [{
+            "professor": "Ezequiel",
+            "subject": "Sistemas Operacionais"
+        }],
+        "ter": [{
+            "professor": "Galvão",
+            "subject": "Sistemas Embarcados"
+        }, {
+            "professor": "Daniela",
+            "subject": "Lógica de Programação (turma extra apenas veteranos) NC"
+        }, {
+            "professor": "Reginaldo",
+            "subject": "Projeto e Análise de Algoritmos"
+        }],
+        "seg": [{
+            "professor": "Bruno",
+            "subject": "Sistemas Distribuídos"
+        }, {
+            "professor": "Faria",
+            "subject": "Inteligência Artificial"
+        }, {
+            "professor": "Alvaro",
+            "subject": "Algoritmos e Estruturas de Dados I (reof)"
+        }],
+        "sex": [{
+            "professor": "Regina",
+            "subject": "Computação Gráfica"
+        }]
+    },
+    "course": "BCC-I - BCC-N",
+    "time": "21h00-23h00",
+    "term": ["7", "Reofs"],
+    "cell": "A66"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Vilhena",
+            "subject": "EDP"
+        }],
+        "qui": [{
+            "professor": "Erwin",
+            "subject": "Álgebra Linear Computacional"
+        }],
+        "ter": [],
+        "seg": [{
+            "professor": "Thadeu",
+            "subject": "Otimização não Linear"
+        }],
+        "sex": []
+    },
+    "course": "BMC-I",
+    "time": "8h00-10h00",
+    "term": ["5", "7"],
+    "cell": "A69"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Thadeu",
+            "subject": "Otimização não Linear"
+        }],
+        "ter": [{
+            "professor": "Erwin",
+            "subject": "Álgebra Linear Computacional"
+        }],
+        "seg": [{
+            "professor": "Vilhena",
+            "subject": "EDP"
+        }],
+        "sex": []
+    },
+    "course": "BMC-I",
+    "time": "10h00-12h00",
+    "term": ["5", "7"],
+    "cell": "A71"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Gama",
+            "subject": "Espaços Métricos"
+        }],
+        "qui": [{
+            "professor": "Felipe",
+            "subject": "Otimização Linear"
+        }],
+        "ter": [{
+            "professor": "Leandro",
+            "subject": "Análise no Rn"
+        }, {
+            "professor": "Aline",
+            "subject": "Análise Real 1"
+        }],
+        "seg": [{
+            "professor": "Renato",
+            "subject": "Teoria dos Números"
+        }, {
+            "professor": "Pedro",
+            "subject": "Introdução à Análise Funcional"
+        }],
+        "sex": [{
+            "professor": "Leandro",
+            "subject": "Análise no Rn"
+        }]
+    },
+    "course": "BMC-I",
+    "time": "13h30-15h30",
+    "term": ["5", "7"],
+    "cell": "A73"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Renato",
+            "subject": "Teoria dos Números"
+        }, {
+            "professor": "Pedro",
+            "subject": "Introdução à Análise Funcional"
+        }],
+        "qui": [{
+            "professor": "Aline",
+            "subject": "Análise Real 1"
+        }],
+        "ter": [],
+        "seg": [{
+            "professor": "Gama",
+            "subject": "Espaços Métricos"
+        }, {
+            "professor": "Felipe",
+            "subject": "Otimização Linear"
+        }],
+        "sex": []
+    },
+    "course": "BMC-I",
+    "time": "15h30-17h30",
+    "term": ["5", "7"],
+    "cell": "A75"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Lilia",
+            "subject": "Reologia dos Materiais U"
+        }],
+        "qui": [{
+            "professor": "Maurício",
+            "subject": "Síntese de Polímeros IB"
+        }],
+        "ter": [{
+            "professor": "Maurício",
+            "subject": "Síntese de Polímeros IA"
+        }],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EM-I",
+    "time": "8h00-10h00",
+    "term": ["7"],
+    "cell": "A78"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Katia",
+            "subject": "Metalurgia Física U"
+        }],
+        "qui": [{
+            "professor": "Maurício",
+            "subject": "Síntese de Polímeros IB"
+        }],
+        "ter": [{
+            "professor": "Maurício",
+            "subject": "Síntese de Polímeros IA"
+        }],
+        "seg": [{
+            "professor": "Katia",
+            "subject": "Metalurgia Física U"
+        }],
+        "sex": []
+    },
+    "course": "EM-I",
+    "time": "10h00-12h00",
+    "term": ["7"],
+    "cell": "A80"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Quinteiro",
+            "subject": "Matérias Primas Cerâmicas IB"
+        }, {
+            "professor": "Marina",
+            "subject": "Tópicos Especiais em Ciência e Engenharia de Materiais I: Sustentabilidade em Engenharia de Materiais"
+        }],
+        "qui": [{
+            "professor": "Capella",
+            "subject": "Técnicas Experimentais IB"
+        }],
+        "ter": [{
+            "professor": "Capella",
+            "subject": "Técnicas Experimentais IA"
+        }],
+        "seg": [{
+            "professor": "Quinteiro",
+            "subject": "Matérias Primas Cerâmicas IA"
+        }],
+        "sex": [{
+            "professor": "Marina",
+            "subject": "Tópicos Especiais em Ciência e Engenharia de Materiais I: Sustentabilidade em Engenharia de Materiais"
+        }]
+    },
+    "course": "EM-I",
+    "time": "13h30-15h30",
+    "term": ["7"],
+    "cell": "A82"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Quinteiro",
+            "subject": "Matérias Primas Cerâmicas IA"
+        }],
+        "qui": [{
+            "professor": "Capella",
+            "subject": "Técnicas Experimentais IB"
+        }],
+        "ter": [{
+            "professor": "Capella",
+            "subject": "Técnicas Experimentais IA"
+        }],
+        "seg": [{
+            "professor": "Quinteiro",
+            "subject": "Matérias Primas Cerâmicas IB"
+        }],
+        "sex": []
+    },
+    "course": "EM-I",
+    "time": "15h30-17h30",
+    "term": ["7"],
+    "cell": "A84"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EM-I",
+    "time": "8h00-10h00",
+    "term": ["9"],
+    "cell": "A87"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Passador",
+            "subject": "Blendas Poliméricas U"
+        }],
+        "ter": [],
+        "seg": [],
+        "sex": [{
+            "professor": "Mariana",
+            "subject": "Ciência e Engenharia de Biomateriais U"
+        }]
+    },
+    "course": "EM-I",
+    "time": "10h00-12h00",
+    "term": ["9"],
+    "cell": "A89"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Passador",
+            "subject": "Blendas Poliméricas U"
+        }],
+        "ter": [],
+        "seg": [],
+        "sex": [{
+            "professor": "Mariana",
+            "subject": "Ciência e Engenharia de Biomateriais U"
+        }]
+    },
+    "course": "EM-I",
+    "time": "13h30-15h30",
+    "term": ["9"],
+    "cell": "A91"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Dilermando",
+            "subject": "Processamento de Materiais Metálicos U"
+        }],
+        "qui": [{
+            "professor": "Dezena",
+            "subject": "Corrosão e Degradação de Materiais U"
+        }],
+        "ter": [{
+            "professor": "Passador",
+            "subject": "Processamento de Termoplásticos U"
+        }],
+        "seg": [{
+            "professor": "Katia",
+            "subject": "Metalurgia Extrativa U"
+        }],
+        "sex": []
+    },
+    "course": "EM-I",
+    "time": "15h30-17h30",
+    "term": ["9"],
+    "cell": "A93"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Dilermando",
+            "subject": "Processamento de Materiais Metálicos U"
+        }],
+        "qui": [{
+            "professor": "Dezena",
+            "subject": "Corrosão e Degradação de Materiais U"
+        }],
+        "ter": [{
+            "professor": "Passador",
+            "subject": "Processamento de Termoplásticos U"
+        }],
+        "seg": [{
+            "professor": "Dezena",
+            "subject": "Engenharia de Produtos Cerâmicos U"
+        }],
+        "sex": []
+    },
+    "course": "EM-I",
+    "time": "19h00-21h00",
+    "term": ["9"],
+    "cell": "A95"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [{
+            "professor": "Dezena",
+            "subject": "Engenharia de Produtos Cerâmicos U"
+        }],
+        "sex": []
+    },
+    "course": "EM-I",
+    "time": "21h00-23h00",
+    "term": ["9"],
+    "cell": "A97"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": [{
+            "professor": "Fabiano",
+            "subject": "Transdução de Grandezas Biomédicas"
+        }]
+    },
+    "course": "EB-I",
+    "time": "8h00-10h00",
+    "term": ["7"],
+    "cell": "A100"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [{
+            "professor": "Regiane",
+            "subject": "Fisiopatologia dos Sistemas Humanos"
+        }],
+        "sex": [{
+            "professor": "Fabiano",
+            "subject": "Transdução de Grandezas Biomédicas"
+        }]
+    },
+    "course": "EB-I",
+    "time": "10h00-12h00",
+    "term": ["7"],
+    "cell": "A102"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Kunkel",
+            "subject": "Biomecânica"
+        }],
+        "qui": [{
+            "professor": "Matheus",
+            "subject": "Imagens Biomédicas"
+        }],
+        "ter": [],
+        "seg": [{
+            "professor": "Regiane",
+            "subject": "Fisiopatologia dos Sistemas Humanos"
+        }, {
+            "professor": "Kunkel",
+            "subject": "Tecnologia Assistivas"
+        }],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "13h30-15h30",
+    "term": ["7"],
+    "cell": "A104"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Kunkel",
+            "subject": "Tecnologia Assistivas"
+        }],
+        "qui": [{
+            "professor": "Edson",
+            "subject": "Biomateriais I"
+        }],
+        "ter": [{
+            "professor": "Matheus",
+            "subject": "Imagens Biomédicas"
+        }],
+        "seg": [{
+            "professor": "Kunkel",
+            "subject": "Biomecânica"
+        }],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "15h30-17h30",
+    "term": ["7"],
+    "cell": "A106"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [{
+            "professor": "Edson",
+            "subject": "Biomateriais N"
+        }],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "19h00-21h00",
+    "term": ["7"],
+    "cell": "A108"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Karina",
+            "subject": "Processamento de Sinais Biomédicos"
+        }],
+        "qui": [],
+        "ter": [{
+            "professor": "Karina",
+            "subject": "Processamento de Sinais Biomédicos"
+        }],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "21h00-23h00",
+    "term": ["7"],
+    "cell": "A110"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "8h00-10h00",
+    "term": ["9"],
+    "cell": "A113"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "10h00-12h00",
+    "term": ["9"],
+    "cell": "A115"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "13h30-15h30",
+    "term": ["9"],
+    "cell": "A117"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "15h30-17h30",
+    "term": ["9"],
+    "cell": "A119"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Karina",
+            "subject": "Instrumentos Biomédicos II"
+        }],
+        "qui": [],
+        "ter": [{
+            "professor": "Karina",
+            "subject": "Instrumentos Biomédicos II"
+        }],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "19h00-21h00",
+    "term": ["9"],
+    "cell": "A121"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Flávio",
+            "subject": "Bioengenharia"
+        }],
+        "qui": [],
+        "ter": [{
+            "professor": "Flávio",
+            "subject": "Bioengenharia"
+        }],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EB-I",
+    "time": "21h00-23h00",
+    "term": ["9"],
+    "cell": "A123"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Goroso",
+            "subject": "Materiais Elétricos I"
+        }],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "8h00-10h00",
+    "term": ["7"],
+    "cell": "A126"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Adenauer",
+            "subject": "Análise de Sinais"
+        }],
+        "ter": [{
+            "professor": "Adenauer",
+            "subject": "Análise de Sinais"
+        }],
+        "seg": [],
+        "sex": [{
+            "professor": "Goroso",
+            "subject": "Materiais Elétricos I"
+        }]
+    },
+    "course": "EC-I",
+    "time": "10h00-12h00",
+    "term": ["7"],
+    "cell": "A128"
+}, {
+    "week": {
+        "qua": [{
+            "professor": "Silva",
+            "subject": "Projetos em Engenharia de Computação I"
+        }],
+        "qui": [{
+            "professor": "Galvão",
+            "subject": "Sistemas Embarcados I"
+        }],
+        "ter": [{
+            "professor": "Ezequiel",
+            "subject": "Sistemas Operacionais"
+        }],
+        "seg": [],
+        "sex": [{
+            "professor": "Lorena",
+            "subject": "Lab. de Compiladores"
+        }]
+    },
+    "course": "EC-I",
+    "time": "13h30-15h30",
+    "term": ["7"],
+    "cell": "A130"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Ezequiel",
+            "subject": "Sistemas Operacionais"
+        }],
+        "ter": [{
+            "professor": "Galvão",
+            "subject": "Sistemas Embarcados I"
+        }],
+        "seg": [{
+            "professor": "Bruno",
+            "subject": "Seminários Interdisciplinares"
+        }],
+        "sex": [{
+            "professor": "Lorena",
+            "subject": "Lab. de Compiladores"
+        }]
+    },
+    "course": "EC-I",
+    "time": "15h30-17h30",
+    "term": ["7"],
+    "cell": "A132"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Galvão",
+            "subject": "Sistemas Embarcados I"
+        }],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "19h00-21h00",
+    "term": ["7"],
+    "cell": "A134"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [{
+            "professor": "Galvão",
+            "subject": "Sistemas Embarcados I"
+        }],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "21h00-23h00",
+    "term": ["7"],
+    "cell": "A136"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "8h00-10h00",
+    "term": ["9"],
+    "cell": "A139"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "10h00-12h00",
+    "term": ["9"],
+    "cell": "A141"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [{
+            "professor": "Bruno",
+            "subject": "Lab. de Redes de Computadores"
+        }],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "13h30-15h30",
+    "term": ["9"],
+    "cell": "A143"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [{
+            "professor": "Silva",
+            "subject": "Elaboração de Trabalhos Científicos e Tecnológicos em Computação"
+        }],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "15h30-17h30",
+    "term": ["9"],
+    "cell": "A145"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "19h00-21h00",
+    "term": ["9"],
+    "cell": "A147"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "EC-I",
+    "time": "21h00-23h00",
+    "term": ["9"],
+    "cell": "A149"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Moraes",
+            "subject": "Biotecnologia Vegetal"
+        }],
+        "ter": [{
+            "professor": "Moraes",
+            "subject": "Biotecnologia Vegetal"
+        }],
+        "seg": [{
+            "professor": "Claudia",
+            "subject": "Imunologia Geral"
+        }],
+        "sex": [{
+            "professor": "Martin",
+            "subject": "Biologia Estrutural"
+        }]
+    },
+    "course": "BBT-I",
+    "time": "8h00-10h00",
+    "term": ["7"],
+    "cell": "A152"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Claudia",
+            "subject": "Imunologia Geral"
+        }],
+        "ter": [],
+        "seg": [],
+        "sex": [{
+            "professor": "Martin",
+            "subject": "Biologia Estrutural"
+        }]
+    },
+    "course": "BBT-I",
+    "time": "10h00-12h00",
+    "term": ["7"],
+    "cell": "A154"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Moraes",
+            "subject": "Ecologia Avançada"
+        }],
+        "ter": [{
+            "professor": "Moraes",
+            "subject": "Ecologia Avançada"
+        }],
+        "seg": [{
+            "professor": "Elisa",
+            "subject": "Biotecnologia Ambiental I"
+        }],
+        "sex": []
+    },
+    "course": "BBT-I",
+    "time": "13h30-15h30",
+    "term": ["7"],
+    "cell": "A156"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [{
+            "professor": "Conceição",
+            "subject": "Química Medicinal"
+        }],
+        "ter": [{
+            "professor": "Conceição",
+            "subject": "Química Medicinal"
+        }],
+        "seg": [{
+            "professor": "Elisa",
+            "subject": "Biotecnologia Ambiental I"
+        }],
+        "sex": []
+    },
+    "course": "BBT-I",
+    "time": "15h30-17h30",
+    "term": ["7"],
+    "cell": "A158"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "BBT-I",
+    "time": "19h00-21h00",
+    "term": ["7"],
+    "cell": "A160"
+}, {
+    "week": {
+        "qua": [],
+        "qui": [],
+        "ter": [],
+        "seg": [],
+        "sex": []
+    },
+    "course": "BBT-I",
+    "time": "21h00-23h00",
+    "term": ["7"],
+    "cell": "A162"
+}]

@@ -1,0 +1,39 @@
+{"classes": [["Álgebra Linear",{"schedule": ["N", 1]},0],
+["Algoritmos e Estruturas de Dados II",{"schedule": ["I", 1]},0],
+["Algoritmos em Bioinformática",{},-2],
+["Cálculo em Várias Variáveis",{},0],
+["Circuitos Digitais",{"professor": ["Denise", 1]},0],
+["CTSA",{"professor": ["Luciana", 1, 2]},0],
+["Cultura de Jogos Digitais",{},-1],
+["Fenômenos do Contínuo",{"professor": ["Rossano", 1]},0],
+["Fenômenos Eletromagnéticos Exp",{},-2],
+["Linguagens Formais e Autômatos",{},-2],
+["Microeconomia",{},0],
+["Probabilidade e Estatística",{},0],
+["Química Geral",{"professor": ["Silvia", 3]},0],
+["Sistemas Operacionais",{},-2],
+["Análise de Sinais",{},-2]],
+"general": {
+    "name": "danilo",
+    "priorities": {
+        "schedule": {
+            "N": 1,
+            "I": 0
+        },
+        "term": {
+            "1": 0,
+            "2": 1,
+            "3": 1,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+        },
+        "time": {
+            "8h00-10h00": -0.5
+        }
+    }
+}
+}

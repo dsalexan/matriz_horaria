@@ -1,0 +1,15 @@
+{
+    "comment":  "NAO INSERIR ACENTOS OU CARACTERES ESPECIAIS",
+    "brutas": {
+        "ciencia tecnologia e sociedade": ["cts"],
+        "ciencia tecnologia sociedade e ambiente": ["ctsa"]
+    },
+    "parciais" : {
+        "empreendorismo": "empreendedorismo",
+        "lab": "laboratorio",
+        "exp": "experimental",
+        "cts": "ciencia tecnologia e sociedade",
+        "ctsa": "ciencia tecnologia sociedade e ambiente"
+    },
+    "remocoes": ["de", "do", "dos", "das", "da", "em", "para", "reoferecimento"]
+}

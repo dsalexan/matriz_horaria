@@ -1,8 +1,8 @@
 # coiso json
 *.csv
 *.xls
-*.json
-.idea
+.idea/
+history/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

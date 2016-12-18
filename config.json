@@ -1,0 +1,16 @@
+{
+    "files": {
+        "input": "./matriz_input.json",
+        "matrix": "./matriz_output.json",
+        "weekly_model": "./modelo_semanal.json",
+        "aurelio": "./aurelio.json"
+    },
+    "schedule": {
+        "8h00-10h00": "I",
+        "10h00-12h00": "I",
+        "13h30-15h30": "I",
+        "15h30-17h30": "I",
+        "19h00-21h00": "N",
+        "21h00-23h00": "N"
+    }
+}
