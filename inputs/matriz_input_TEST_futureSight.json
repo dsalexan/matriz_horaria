@@ -1,0 +1,26 @@
+{"classes": [["Álgebra Linear",{"schedule": ["N", 1]},0],
+["Algoritmos em Bioinformática",{},-2],
+["Microeconomia",{},0]],
+"general": {
+    "name": "TEST_futureSight",
+    "priorities": {
+        "schedule": {
+            "N": 1,
+            "I": 0
+        },
+        "term": {
+            "1": 0,
+            "2": 1,
+            "3": 1,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+        },
+        "time": {
+        }
+    }
+}
+}
